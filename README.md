@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StaticVoidTeo
-- 👀 I’m interested in C# and C++
+- 👀 I’m interested in C#, C++, JS, HTML, CSS
 - 🌱 I’m currently learning C#
 
 <!---
