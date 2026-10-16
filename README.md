@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @StaticVoidTeo
-- 👀 I’m interested in C#, C++, JS, HTML, CSS
-- 🌱 I’m currently learning C#
+<div align="center">
 
-<!---
-StaticVoidTeo/StaticVoidTeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Hello, World!
+
+Just someone who loves programming.
+
+I like building things, solving problems, and exploring what code can do.
+
+<br/>
+<img src="https://skillicons.dev/icons?i=js,cpp,react,python,git,linux" alt="Technologies"/>
+
+“Code. Learn. Repeat.”
+
+</div>
